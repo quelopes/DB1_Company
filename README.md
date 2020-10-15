@@ -17,7 +17,7 @@ Data:
 
 ## Description
 
-Programa desenvolvido em linguagem C para manipulação de um banco de dados relacional.
+Programa desenvolvido em linguagem C++ para manipulação de um banco de dados relacional.
 
 
 

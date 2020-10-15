@@ -1,0 +1,6 @@
+159753	Marcelo	B	Castro	M	19980405	irmao
+159753	Viviane	C	Castro	F	19711416	mae
+321654	Raphael	T	Roque	M	19841119	primo
+789321	Manuela	R	Lacerda	F	19950430	irma
+951357	Lucas	S	Cabral	M	19640925	pai
+852741	Alice	K	Borges	F	19941201	tia

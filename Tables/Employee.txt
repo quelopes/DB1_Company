@@ -1,0 +1,15 @@
+123456	123456	1	20000101	Raquel	L	Costa	F	Itambe	232	0	Contagem	Minas Gerais	32285110	1500
+654321	123456	2	19800202	Barbara	M	Souza	F	Parana	32	5	Belo Horizonte	Minas Gerais	32285000	1800
+852369	852369	3	19500601	Francisco	F	Costa	M	Itambe	2	0	Sete Lagoas	Minas Gerais	36285110	2000
+159753	123456	4	20040701	Rodrigo	O	Castro	M	Itapemirim	87	3	Lagoa Santa	Minas Gerais	35285110	3000
+789654	789654	1	20010801	Tiago	-	Souza	M	Dom Pedro	587	0	Ipatinga	Minas Gerais	34285110	4000
+741258	123456	2	20041101	Bruno	P	Borges	M	Salvador	784	8	Ouro Branco	Minas Gerais	33285110	5000
+456321	789654	3	19951001	Pedro	-	Magalhaes	M	Cuba	22	0	Campos	Rio de Janeiro	32285110	1200
+741852	123456	4	19940901	Lucas	R	Pereira	M	Ouvidor	124	0	Araras	Sao Paulo	32285110	6500
+321654	852369	1	19770801	Natalia	V	Roque	F	Tamoios	27	1	Petropolis	Rio de Janeiro	32285110	1500
+951357	123456	2	19790701	Luciana	-	Cabral	F	Tupis	92	0	Cordisburgo	Minas Gerais	32285110	800
+753159	789654	3	20040601	Monica	E	Rosa	F	Goitacazes	832	0	Esmeralda	Minas Gerais	37285110	900
+789321	123456	4	20050501	Juliana	D	Lacerda	F	Timbiras	702	0	Fortaleza	Ceara	32285000	1800
+258369	852369	1	19990401	Diego	C	Marinho	M	Get. Vargas	332	8	Manaus	Amazonas	42285110	4500
+852741	123456	2	19840301	Felipe	A	Lopes	M	Caraça	42	7	Pimenta Bueno	Rondonia	22285200	2300
+159263	852369	1	19650201	Renata	B	Borges	F	Corcovado	86	0	Nova Lima	Minas Gerais	22295110	5400
